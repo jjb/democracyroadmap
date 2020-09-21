@@ -19,6 +19,7 @@ filibuster = g.add_node( "Abolish Filibuster" )
 fed_trifecta = g.add_node( "Federal Trifecta" )
 expand_scotus = g.add_node( "Expand SCOTUS" )
 eppand_federal = g.add_node( "Expand Federal Courts" )
+legislation = g.add_node( "Pass Good Laws and \nDo Government Stuff" )
 
 # dependencies
 const_convention = g.add_node( "Constitutional Convention" )
@@ -51,6 +52,8 @@ g.add_edge(fed_trifecta, dc)
 g.add_edge(fed_trifecta, territories)
 g.add_edge(fed_trifecta, eppand_federal)
 g.add_edge(fed_trifecta, expand_scotus)
+g.add_edge(fed_trifecta, legislation)
+g.add_edge(filibuster, legislation)
 
 # Generate output image
 g.output( :png => "image.png" )
