@@ -43,6 +43,10 @@ g.add_edge(more_state_trifectas, majority_state_trifectas)
 g.add_edge(majority_state_trifectas, two_thirds_state_trifectas)
 g.add_edge(two_thirds_state_trifectas, const_convention)
 g.add_edge(gotv, more_state_trifectas)
+g.add_edge(fed_trifecta, gerrymandering_fed)
+g.add_edge(gotv, win_presidency)
+g.add_edge(gotv, senate_majority)
+g.add_edge(gotv, house_majority)
 
 # Generate output image
 g.output( :png => "image.png" )
