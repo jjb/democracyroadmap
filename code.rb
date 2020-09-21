@@ -1,8 +1,11 @@
 require 'ruby-graphviz'
 
-# Create a new graph
+
+# todo
+# color for "goal which achieves better democracy"
+# color for "goal which is result of better democracy" (or remove these)
+
 g = GraphViz.new( :G, :type => :digraph )
-# g.node["shape"] = "circle"
 g[:truecolor => true, :bgcolor => "transparent", :rankdir => "LR"]
 
 
@@ -10,9 +13,11 @@ g[:truecolor => true, :bgcolor => "transparent", :rankdir => "LR"]
 goals = [
   representation = g.add_node( "More Accurate Federal Representation" ),
   expand_scotus = g.add_node( "Expand SCOTUS" ),
-  eppand_federal = g.add_node( "Expand Federal Courts" ),
+  expand_federal = g.add_node( "Expand Federal Courts" ),
   legislation = g.add_node( "Pass Good Laws and \nDo Government Stuff" ),
   representation = g.add_node( "More Accurate Federal Representation" ),
+  campaign_finance = g.add_node( "Campaign Finance Reform" ),
+  citizens_united = g.add_node( "Undo Citizen's United" ),
 ]
 goals.each{|g| g[:color => 'gold']}
 
@@ -56,7 +61,7 @@ g.add_edge(gotv, senate_majority)
 g.add_edge(gotv, house_majority)
 g.add_edge(fed_trifecta, dc)
 g.add_edge(fed_trifecta, territories)
-g.add_edge(fed_trifecta, eppand_federal)
+g.add_edge(fed_trifecta, expand_federal)
 g.add_edge(fed_trifecta, expand_scotus)
 g.add_edge(fed_trifecta, legislation)
 g.add_edge(filibuster, legislation)
@@ -67,6 +72,11 @@ g.add_edge(gerrymandering_fed, representation)
 g.add_edge(gerrymandering_state, representation)
 g.add_edge(ec_pact, representation)
 g.add_edge(remove_ec, representation)
+g.add_edge(expand_scotus, citizens_united)
+g.add_edge(expand_scotus, legislation)
+g.add_edge(expand_federal, legislation)
+g.add_edge(citizens_united, campaign_finance)
+g.add_edge(fed_trifecta, campaign_finance)
 
 # Generate output image
 g.output( :png => "image.png" )
