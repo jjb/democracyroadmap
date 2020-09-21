@@ -47,6 +47,10 @@ g.add_edge(fed_trifecta, gerrymandering_fed)
 g.add_edge(gotv, win_presidency)
 g.add_edge(gotv, senate_majority)
 g.add_edge(gotv, house_majority)
+g.add_edge(fed_trifecta, dc)
+g.add_edge(fed_trifecta, territories)
+g.add_edge(fed_trifecta, eppand_federal)
+g.add_edge(fed_trifecta, expand_scotus)
 
 # Generate output image
 g.output( :png => "image.png" )
