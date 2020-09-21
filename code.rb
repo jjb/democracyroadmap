@@ -11,16 +11,16 @@ g[:truecolor => true, :bgcolor => "transparent", :rankdir => "LR"]
 
 # goals
 goals = [
-  representation = g.add_node( "More Accurate Federal Representation" ),
   expand_scotus = g.add_node( "Expand SCOTUS" ),
   expand_federal = g.add_node( "Expand Federal Courts" ),
-  legislation = g.add_node( "Pass Good Laws and \nDo Government Stuff" ),
-  representation = g.add_node( "More Accurate Federal Representation" ),
+  # legislation = g.add_node( "Pass Good Laws and \nDo Government Stuff" ),
+  # representation = g.add_node( "More Accurate Federal Representation" ),
   campaign_finance = g.add_node( "Campaign Finance Reform" ),
-  citizens_united = g.add_node( "Undo Citizen's United" ),
+  # elections = g.add_node( "Fair and Accessible Elections" ),
 ]
-goals.each{|g| g[:color => 'gold']}
+# goals.each{|g| g[:color => 'gold']}
 
+citizens_united = g.add_node( "Undo Citizen's United" )
 gerrymandering_fed = g.add_node("Federal Gerrymandering Rules")
 gerrymandering_state = g.add_node("Fix Gerrymandering In Some States")
 ec_pact = g.add_node("Interstate Electoral College Pact")
@@ -63,20 +63,17 @@ g.add_edge(fed_trifecta, dc)
 g.add_edge(fed_trifecta, territories)
 g.add_edge(fed_trifecta, expand_federal)
 g.add_edge(fed_trifecta, expand_scotus)
-g.add_edge(fed_trifecta, legislation)
-g.add_edge(filibuster, legislation)
-g.add_edge(senate, representation)
-g.add_edge(dc, representation)
-g.add_edge(territories, representation)
-g.add_edge(gerrymandering_fed, representation)
-g.add_edge(gerrymandering_state, representation)
-g.add_edge(ec_pact, representation)
-g.add_edge(remove_ec, representation)
+# g.add_edge(senate, representation)
+# g.add_edge(dc, representation)
+# g.add_edge(territories, representation)
+# g.add_edge(gerrymandering_fed, representation)
+# g.add_edge(gerrymandering_state, representation)
+# g.add_edge(ec_pact, representation)
+# g.add_edge(remove_ec, representation)
 g.add_edge(expand_scotus, citizens_united)
-g.add_edge(expand_scotus, legislation)
-g.add_edge(expand_federal, legislation)
 g.add_edge(citizens_united, campaign_finance)
 g.add_edge(fed_trifecta, campaign_finance)
+# g.add_edge(citizens_united, elections)
 
 # Generate output image
 g.output( :png => "image.png" )
