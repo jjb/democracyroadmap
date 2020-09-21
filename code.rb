@@ -7,6 +7,15 @@ g[:truecolor => true, :bgcolor => "transparent", :rankdir => "LR"]
 
 
 # goals
+goals = [
+  representation = g.add_node( "More Accurate Federal Representation" ),
+  expand_scotus = g.add_node( "Expand SCOTUS" ),
+  eppand_federal = g.add_node( "Expand Federal Courts" ),
+  legislation = g.add_node( "Pass Good Laws and \nDo Government Stuff" ),
+  representation = g.add_node( "More Accurate Federal Representation" ),
+]
+goals.each{|g| g[:color => 'gold']}
+
 gerrymandering_fed = g.add_node("Federal Gerrymandering Rules")
 gerrymandering_state = g.add_node("Fix Gerrymandering In Some States")
 ec_pact = g.add_node("Interstate Electoral College Pact")
@@ -17,10 +26,6 @@ territories = g.add_node("Statehood for Territories")
 senate = g.add_node( "Abolish/Reform Senate" )
 filibuster = g.add_node( "Abolish Filibuster" )
 fed_trifecta = g.add_node( "Federal Trifecta" )
-expand_scotus = g.add_node( "Expand SCOTUS" )
-eppand_federal = g.add_node( "Expand Federal Courts" )
-legislation = g.add_node( "Pass Good Laws and \nDo Government Stuff" )
-representation = g.add_node( "More Accurate Federal Representation" )
 
 # dependencies
 const_convention = g.add_node( "Constitutional Convention" )
