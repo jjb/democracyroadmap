@@ -17,19 +17,19 @@ goals = [
   # representation = g.add_node( "More Accurate Federal Representation" ),
   campaign_finance = g.add_node( "Campaign Finance Reform" ),
   # elections = g.add_node( "Fair and Accessible Elections" ),
+  gerrymandering_fed = g.add_node("Federal Gerrymandering Rules"),
+  gerrymandering_state = g.add_node("Fix Gerrymandering In Some States"),
+  ec_pact = g.add_node("Interstate Electoral College Pact"),
+  remove_ec = g.add_node("Removal of Electoral College"),
+  territories = g.add_node("Statehood for Territories"),
+  dc = g.add_node("Statehood for DC"),
+  senate = g.add_node( "Abolish/Reform Senate" ),
+  filibuster = g.add_node( "Abolish Filibuster" ),
 ]
-# goals.each{|g| g[:color => 'gold']}
+goals.each{|g| g[:color => 'gold']}
 
 citizens_united = g.add_node( "Undo Citizen's United" )
-gerrymandering_fed = g.add_node("Federal Gerrymandering Rules")
-gerrymandering_state = g.add_node("Fix Gerrymandering In Some States")
-ec_pact = g.add_node("Interstate Electoral College Pact")
-remove_ec = g.add_node("Removal of Electoral College")
-dc = g.add_node("Statehood for DC")
-territories = g.add_node("Statehood for Territories")
 # irv = g.add_node("Instant Runnoff Voting or Similar")
-senate = g.add_node( "Abolish/Reform Senate" )
-filibuster = g.add_node( "Abolish Filibuster" )
 fed_trifecta = g.add_node( "Federal Trifecta" )
 
 # dependencies
