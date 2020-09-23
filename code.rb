@@ -81,4 +81,5 @@ g.add_edge(fed_trifecta, campaign_finance)
 # g.add_edge(citizens_united, elections)
 g.add_edge(filibuster, dc)
 
-g.output( :png => "image.png" )
+# g.output( :png => "image.png" )
+g.output(:svg => "graph.svg")
