@@ -12,6 +12,7 @@ g[:truecolor => true, :bgcolor => "transparent", :rankdir => "LR"]
 # goals
 goals = [
   expand_scotus = g.add_node( "Expand SCOTUS" ),
+  scotus_term_limits = g.add_node( "SCOTUS term limits" ),
   expand_federal = g.add_node( "Expand Federal Courts" ),
   # legislation = g.add_node( "Pass Good Laws and \nDo Government Stuff" ),
   # representation = g.add_node( "More Accurate Federal Representation" ),
@@ -45,6 +46,7 @@ gotv = g.add_node( "Get Out The Vote!" )
 # relationships
 g.add_edge(const_convention, senate)
 g.add_edge(const_convention, remove_ec)
+g.add_edge(const_convention, scotus_term_limits)
 g.add_edge(majority_state_trifectas, ec_pact)
 g.add_edge(win_presidency, fed_trifecta)
 g.add_edge(senate_majority, fed_trifecta)
