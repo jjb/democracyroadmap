@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    <title>How to Get Out The Vote for Democrats in the 2018 Midterms</title>
+    <meta
+      name="description"
+      content="How to Get Out The Vote for Democrats in the 2018 Midterms"
+    />
+    <meta name="author" content="John Bachir" />
+
+    <meta property="og:image" content="https://jjb.cc/gotv.jpg" />
+    <meta
+      property="og:title"
+      content="How to Get Out The Vote for Democrats in the 2018 Midterms"
+    />
+    <meta name="twitter:image:src" content="https://jjb.cc/gotv.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@johnjoseph" />
+    <meta name="twitter:creator" content="@johnjoseph" />
+  </head>
+
+  <body>
+    <script src="https://gist.github.com/jjb/3f560bb078f87965acd15a596c458d03.js"></script>
+
+    <br />
+    <img src="https://jjb.cc/gotv.jpg" width="900" />
+  </body>
+</html>
