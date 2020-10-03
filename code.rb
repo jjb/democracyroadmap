@@ -39,8 +39,8 @@ fed_trifecta = g.add_node( "Federal Trifecta", shape: 'square', fontsize:'16px',
 # dependencies
 const_convention = g.add_node( "Constitutional\nConvention", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px' )
 more_state_trifectas = g.add_node( "More\nState Trifectas", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px' )
-majority_state_trifectas = g.add_node( "Majority of States\nWith Trifectas", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px' )
-two_thirds_state_trifectas = g.add_node( "2/3 of States\nWith Trifectas", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px' )
+majority_state_trifectas = g.add_node( "Majority\nState Trifectas", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px' )
+two_thirds_state_trifectas = g.add_node( "2/3\nState Trifectas", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px' )
 house_majority = g.add_node( "House Majority", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px')
 senate_majority = g.add_node( "Senate Majority", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px')
 win_presidency = g.add_node( "Presidency", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px')
