@@ -5,33 +5,46 @@
 ### I'm busy, mildly overwhelmed and confused, and want to help, I think? What should I do right now?!
 
 Skip this whole document and...
- * donate here: https://votesaveamerica.com/donate
- * explore volunteer opportunities here: https://thelastweekend.org/
+ * Donate here: [https://votesaveamerica.com/donate](https://votesaveamerica.com/donate)
+ * Check your voter registration, request a ballot, and explore volunteer (from home!) opportunities here: [https://votesaveamerica.com/](https://votesaveamerica.com/)
 
 For more info and options, read on...
 
 ### What's the goal?
 
 We need to reach as many voters as possible to inform them that the election is happening,
-who the Democrat candidate is, and what's at stake. Direct contact puts a human face to the process of voting and to
+who the Democrat candidates are, and what's at stake. Direct contact puts a human face/voice to the process of voting and to
 the issues. All these methods have been proven to work to turn out more voters.
 
-### Doesn't everyone already know about the election?
+### Who do we call?
 
-No, some people don't know! Not everyone pays attention to the news. Some people have 2 or 3 jobs!
+Democrats! Different campaigns target different groups at different times. A common example of the group that
+is targeted is registered Democrats who are unlikely to vote. Campaigns can request voting records of
+when people voted (but not who they voted for of course)! Weird, I know. So, these people are likely to vote for
+Democrats if they do vote, but are also likely to not vote. So if we help them get out and vote, it's a good
+investment of effort!
 
-### Haven't people who have paid a little attention already know who the candidates are and have made up their minds?
+### Everyone already knows about the election and has made up their minds right? What's the point of calling people?
 
-Not always! People are vaguely aware of things, but they view it from a distance as a horse race, a spectacle.
-Reaching out to them pulls them in and makes them feel involved and feel like they have influence.
+Yes, probably everyone we call is aware of the election, and already know who they will vote for if they vote.
+
+But many people don't have what we call in canvassing "a plan". If they are going to vote in person, they
+might not know where to vote, what time the polling location is open, might not have a plan for when to vote (before vs. after work, etc).
+
+Some people feel pretty sure they will vote, but when election day comes around they might get lazy,
+assume their vote isn't that consequential, etc.
+
+We call them to give them information and encouragement. This is proven to turn out more voters!
 
 ### Even if we can flip a handful of voters, isn't that a drop in the bucket compared to who is already voting?
 
 Short answer: Every vote counts! The entire VA legislature was lost to Republicans by ONE VOTE in 2017! 😢
 
-Long answer: All those drops in the bucket add up! When we canvas, do phone calls, or text, we are reaching out to voters
+Long answer: All those drops in the bucket add up! When we canvass, do phone calls, or text, we are reaching out to voters
 and gaining some votes, and we are also collecting data for the campaign to use later for various purposes, such as
 deciding whom to reach out to via phone on election day to remind them to vote.
+
+Another answer: This year the GOTV effort is massive and we are going to change outcomes. JOIN US!
 
 
 ## How much effort does it take?
@@ -44,57 +57,52 @@ deciding whom to reach out to via phone on election day to remind them to vote.
 
 ### ways to volunteer
 
-* Canvassing: Walk door to door, inform people about the election and the candidate. You meet a spectrum of Americans and make a difference — it's fun! There is very little confrontation, and many people are grateful to have a face-to-face conversation with someone who cares. It's really life-changing and productive. The campaign has different goals for the canvass day-to-day. You will get a quick training and you will be partnered with an experienced person.
+* lol ~~Canvassing: Walk door to door, inform people about the election and the candidate. You meet a spectrum of Americans and make a difference — it's fun! There is very little confrontation, and many people are grateful to have a face-to-face conversation with someone who cares. It's really life-changing and productive. The campaign has different goals for the canvass day-to-day. You will get a quick training and you will be partnered with an experienced person.~~
 * Phone banking: Make phone calls, using an app. Your phone number is not involved. Similar goals as above.
 * Text banking: Send Text messages, using an app. Your phone number is not involved. Similar goals as above.
 
-### How to find volunteer opportunities
+### Knock For Democracy
 
-* https://thelastweekend.org/
+I've been involved on and off with this group since 2018 and
+I think it's the best and most impactful group of folks there is!
+
+[https://www.knockfordemocracy.org/](https://www.knockfordemocracy.org/)
+
+
+### And/or check out these other ways to volunteer
+
 * https://www.sisterdistrict.com/volunteer/
-* https://events.mobilizeamerica.io/
 * https://swingleft.org/take-action
-* https://multiplyyourvote.org/ - Julia Louis Dreyfus!
-* https://indivisible435.org/join-the-indivisitext-team
-* https://resistancelabs.com/volunteer
-* https://www.buildthewave.org/
-* https://front.moveon.org/join-moveon-text-team/
-* https://www.indivisible.org/phonebank/
-* https://docs.google.com/forms/d/e/1FAIpQLSeNXbt1mbvVOyMPnLpkhf9t-GRouNio59CPOyLsfeoIM_ZTrA/viewform
+* https://indivisible.org/
+* https://resistancelabs.com/
+* https://front.moveon.org/
+* [https://votefwd.org/](https://votefwd.org/) Print and customize physical letters and mail them. Shown to increase turnout by 3.4%!!
+* [https://www.ctctogether.org/](https://www.ctctogether.org/) "Deep canvassing is a form of voter engagement where canvassers connect to voters emotionally through storytelling, empathy, and respect. It’s also the most effective form of voter engagement that’s ever been measured." [WNYC story](https://www.wnyc.org/story/could-door-knock-change-your-mind-and-your-votes/)
 
 ## Donate
-* https://votesaveamerica.com/donate recently picked 11 races where the donation will have the most impact. from the Pod Save America folks
-* https://www.futurenow.org/ support various artisinal hand-picked local candidates. in upper right click "about" to see the candidates, "donate" to donate.
-* https://secure.actblue.com/donate/sl-impact-fund
-* https://flippable.org/act-now/ flippable *state* House and Senate districts. Click "donate" to donate to all.
-* https://swingleft.org/district-funds flippable *US* House districts - pick your favorite(s) or a random one.
-* https://www.sisterdistrict.com/
-* https://redtoblue.dccc.org/ flippable *US* House districts. Click "support all candidates" or pick your favorite(s). warning: sadly, the DCCC will give your email address to every single campaign and you will get 10+ emails a day!
-* https://www.dlcc.org/ - state
+* [https://votesaveamerica.com/donate](https://votesaveamerica.com/donate)
+* [https://www.futurenow.org/](https://www.futurenow.org/) strategically picked state races
+* [https://flippable.org/](https://flippable.org/) flippable *state* House and Senate districts. Click "donate" to donate to all.
+* [https://www.sisterdistrict.com/](https://www.sisterdistrict.com/) strategically picked state races
+* [https://redtoblue.dccc.org/](https://redtoblue.dccc.org/) flippable *US* House districts. Click "support all candidates" or pick your favorite(s). warning: sadly, the DCCC will give your email address to every single campaign and you will get 10+ emails a day!
+* [https://www.dlcc.org/](https://www.dlcc.org/) - state races
 
 ## Multi-function Guides/Resources. They are fun! Do them all!
-* https://www.aclu.org/voter/polling-place/ - really slick and informative!
-* https://www.crushthemidterms.org/
-* https://votesaveamerica.com/
-* https://www.ballotready.org/
+* [https://www.crush2020.org/](https://www.crush2020.org/)
+* [https://votesaveamerica.com/](https://votesaveamerica.com/)
+* [https://www.ballotready.org/](https://www.ballotready.org/)
 
 ## Voter Registration
-* 50% off Lyft rides to the polls! https://www.buzzfeed.com/pollup2018/welcome-to-pollup2018
-* Registration, absentee ballots, reminders, etc: https://www.vote.org/
-* Register people to vote at concerts: https://www.headcount.org
-* Get a ride to the polls: https://carpoolvote.com/
-* If you have questions or see problems at the polls text OUR VOTE to 97779 and you will be connected to a trained nonpartisan Election Protection volunteer. More details at 866ourvote.org.
+* Registration, absentee ballots, reminders, etc: [https://www.vote.org/](https://www.vote.org/)
+* Register people to vote at concerts: [https://www.headcount.org](https://www.headcount.org)
+* If you have questions or see problems at the polls text OUR VOTE to 97779 and you will be connected to a trained nonpartisan Election Protection volunteer. More details at [https://866ourvote.org](https://866ourvote.org).
 
-## More! / not 2018-specific
+## More! / not 2020-specific
 
-* canvassing if you live in NYC - great group of folks! I'm doing this Saturday–Tuesday: https://www.knockfornine.com/
-* Gamify registration, voting, etc. in a team. In Alpha! only for the truly democracy obsessed. Join the team I'm on, "Texas Rock" https://www.motivote.us/
-* Volunteer with https://momsdemandaction.org/. They have been [passing gun laws at the state level for *years*](https://momsdemandaction.org/our-victories/). They are inspiring and amazing.
-  * https://momsdemandaction.org/take-action/
+* Gamify registration, voting, etc. in a team. Only for the truly democracy obsessed. Join the team I'm on, "Texas Rock" https://www.motivote.us/
+* Volunteer with [https://momsdemandaction.org/](https://momsdemandaction.org/). They have been [passing gun laws at the state level for *years*](https://momsdemandaction.org/our-victories/). They are inspiring and amazing.
+  * [https://momsdemandaction.org/join-us/](https://momsdemandaction.org/join-us/)
   * Text GUNSENSE to 644-33
-* (this campaign is over now for 2018) Print and customize physical letters and mail them. Shown to increase turnout by 3.4%!! https://votefwd.org/
-* [give money to Susan Collins's future 2020 opponent](https://www.crowdpac.com/campaigns/387413/either-sen-collins-votes-no-on-kavanaugh-or-we-fund-her-future-opponent). lulz. bye felicia
-* new "deep canvassing" approach -- I don't know much about it yet but it seems pretty sweet? https://www.ctctogether.org/ [WNYC story](https://www.wnyc.org/story/could-door-knock-change-your-mind-and-your-votes/)
 
 ----
 
