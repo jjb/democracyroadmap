@@ -79,7 +79,7 @@ g.add_edge(win_presidency, expand_federal)
 g.add_edge(win_presidency, expand_scotus)
 g.add_edge(win_presidency, fed_trifecta)
 
-# g.output( :png => "graph.png" )
+g.output(:png => "graph.png")
 g.output(:svg => "graph.svg")
 
 `erb index.html.erb > index.html`
