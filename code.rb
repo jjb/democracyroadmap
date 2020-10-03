@@ -5,45 +5,48 @@ require 'erb'
 # color for "goal which achieves better democracy"
 # color for "goal which is result of better democracy" (or remove these)
 
-g = GraphViz.new( :G, :type => :digraph )
-g[:truecolor => true, :bgcolor => "transparent", :rankdir => "LR"]
+g = GraphViz.new( :G, :type => 'graph' )
+g.node[shape: 'circle', style: 'filled', fontname: 'garamond', fillcolor: 'white',
+  fontsize:'20px', penwidth: '3px', fixedsize: true, width: 2.5, height: 2.5]
 
+g[:truecolor => true, :bgcolor => "transparent"]
 
 # goals
 goals = [
-  expand_scotus = g.add_node( "Expand SCOTUS" ),
-  scotus_term_limits = g.add_node( "SCOTUS term limits" ),
-  expand_federal = g.add_node( "Expand Federal Courts" ),
-  campaign_finance = g.add_node( "Campaign Finance Reform" ),
+  expand_scotus = g.add_node( "Expand\nSCOTUS" ),
+  scotus_term_limits = g.add_node( "SCOTUS\nterm limits" ),
+  expand_federal = g.add_node( "Expand\nFederal Courts" ),
+  campaign_finance = g.add_node( "Campaign Finance\nReform" ),
   # elections = g.add_node( "Fair and Accessible Elections" ),
-  gerrymandering_fed = g.add_node("Federal Gerrymandering Rules"),
-  gerrymandering_state = g.add_node("Fix Gerrymandering In Some States"),
-  ec_pact = g.add_node("Interstate Electoral College Pact"),
-  remove_ec = g.add_node("Removal of Electoral College"),
-  territories = g.add_node("Statehood for Territories"),
-  dc = g.add_node("Statehood for DC"),
-  senate = g.add_node( "Abolish/Reform Senate" ),
-  filibuster = g.add_node( "Abolish Filibuster" ),
-  expand_house = g.add_node( "Expand House" ),
+  gerrymandering_fed = g.add_node("Federal\nGerrymandering\nRules"),
+  gerrymandering_state = g.add_node("Fix Gerrymandering\nIn Some States"),
+  ec_pact = g.add_node("Interstate Electoral\nCollege Pact"),
+  remove_ec = g.add_node("Removal of\nElectoral College"),
+  territories = g.add_node("Statehood for\nTerritories"),
+  dc = g.add_node("Statehood for\nDC"),
+  senate = g.add_node( "Reform\nSenate" ),
+  filibuster = g.add_node( "Abolish\nFilibuster" ),
+  expand_house = g.add_node( "Expand\nHouse" ),
 ]
 goals.each{|g| g[:color => 'gold']}
 
-legislation = g.add_node( "Ability to Pass Legislation" ) #make different shape?
+legislation = g.add_node( "Ability to\nPass Legislation", shape: 'square' )
 
 citizens_united = g.add_node( "Undo Citizen's United" )
 # irv = g.add_node("Instant Runnoff Voting or Similar")
-fed_trifecta = g.add_node( "Federal Trifecta" )
+fed_trifecta = g.add_node( "Federal Trifecta", shape: 'square' )
 
 # dependencies
-const_convention = g.add_node( "Constitutional Convention" )
-more_state_trifectas = g.add_node( "More State Trifectas" )
-majority_state_trifectas = g.add_node( "Majority of States With Trifectas" )
-two_thirds_state_trifectas = g.add_node( "2/3 of States With Trifectas" )
+const_convention = g.add_node( "Constitutional\nConvention" )
+more_state_trifectas = g.add_node( "More\nState Trifectas" )
+majority_state_trifectas = g.add_node( "Majority of States\nWith Trifectas" )
+two_thirds_state_trifectas = g.add_node( "2/3 of States\nWith Trifectas" )
 house_majority = g.add_node( "House Majority" )
 senate_majority = g.add_node( "Senate Majority" )
 win_presidency = g.add_node( "Presidency" )
 gotv = g.add_node( "Get Out\nThe Vote!", shape: "circle", style: 'filled', fontname: 'garamond',
-  fillcolor: 'white', fontcolor:'red', color:'blue', fontsize:'30px', penwidth: '5px', URL: "/gotv" )
+  fillcolor: 'white', fontcolor:'red', color:'blue', fontsize:'50px', penwidth: '5px', URL: "/gotv",
+  width: 3, height: 3 )
 
 # relationships
 g.add_edge(citizens_united, campaign_finance)
