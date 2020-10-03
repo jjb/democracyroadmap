@@ -299,9 +299,12 @@
 <!-- Get Out\nThe Vote! -->
 <g id="node24" class="node">
 <title>Get Out\nThe Vote!</title>
+<g id="a_node24"><a xlink:href="/gotv" xlink:title="Get Out\nThe Vote!">
 <ellipse fill="#ffffff" stroke="#0000ff" stroke-width="5" cx="94.7523" cy="-234" rx="94.5053" ry="94.5053"/>
 <text text-anchor="middle" x="94.7523" y="-243" font-family="garamond" font-size="30.00" fill="#ff0000">Get Out</text>
 <text text-anchor="middle" x="94.7523" y="-210" font-family="garamond" font-size="30.00" fill="#ff0000">The Vote!</text>
+</a>
+</g>
 </g>
 <!-- Get Out\nThe Vote!&#45;&gt;More State Trifectas -->
 <g id="edge9" class="edge">

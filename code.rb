@@ -1,5 +1,5 @@
 require 'ruby-graphviz'
-
+require 'erb'
 
 # todo
 # color for "goal which achieves better democracy"
@@ -43,7 +43,7 @@ house_majority = g.add_node( "House Majority" )
 senate_majority = g.add_node( "Senate Majority" )
 win_presidency = g.add_node( "Presidency" )
 gotv = g.add_node( "Get Out\nThe Vote!", shape: "circle", style: 'filled', fontname: 'garamond',
-  fillcolor: 'white', fontcolor:'red', color:'blue', fontsize:'30px', penwidth: '5px' )
+  fillcolor: 'white', fontcolor:'red', color:'blue', fontsize:'30px', penwidth: '5px', URL: "/gotv" )
 
 # relationships
 g.add_edge(citizens_united, campaign_finance)
@@ -78,3 +78,5 @@ g.add_edge(win_presidency, fed_trifecta)
 
 # g.output( :png => "graph.png" )
 g.output(:svg => "graph.svg")
+
+`erb index.html.erb > index.html`
