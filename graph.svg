@@ -50,17 +50,23 @@
 <!-- Federal\nGerrymandering\nRules -->
 <g id="node5" class="node">
 <title>Federal\nGerrymandering\nRules</title>
+<g id="a_node5"><a xlink:href="https://democraticredistricting.com/" xlink:title="Federal\nGerrymandering\nRules" target="new">
 <ellipse fill="#ffffff" stroke="#ffd700" stroke-width="3" cx="684" cy="-306" rx="90" ry="90"/>
 <text text-anchor="middle" x="684" y="-323" font-family="garamond" font-size="20.00" fill="#000000">Federal</text>
 <text text-anchor="middle" x="684" y="-301" font-family="garamond" font-size="20.00" fill="#000000">Gerrymandering</text>
 <text text-anchor="middle" x="684" y="-279" font-family="garamond" font-size="20.00" fill="#000000">Rules</text>
+</a>
+</g>
 </g>
 <!-- Fix Gerrymandering\nIn Some States -->
 <g id="node6" class="node">
 <title>Fix Gerrymandering\nIn Some States</title>
+<g id="a_node6"><a xlink:href="https://democraticredistricting.com/" xlink:title="Fix Gerrymandering\nIn Some States" target="new">
 <ellipse fill="#ffffff" stroke="#ffd700" stroke-width="3" cx="1278" cy="-738" rx="90" ry="90"/>
 <text text-anchor="middle" x="1278" y="-744" font-family="garamond" font-size="20.00" fill="#000000">Fix Gerrymandering</text>
 <text text-anchor="middle" x="1278" y="-722" font-family="garamond" font-size="20.00" fill="#000000">In Some States</text>
+</a>
+</g>
 </g>
 <!-- Interstate Electoral\nCollege Pact -->
 <g id="node7" class="node">
