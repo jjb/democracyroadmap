@@ -45,7 +45,7 @@ house_majority = g.add_node( "House Majority", shape: 'square', fontsize:'16px',
 senate_majority = g.add_node( "Senate Majority", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px')
 win_presidency = g.add_node( "Presidency", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px')
 gotv = g.add_node( "Click Here to\nGet Out\nThe Vote!", shape: "circle", style: 'filled', fontname: 'garamond',
-  fillcolor: 'white', fontcolor:'red', color:'blue', fontsize:'36px', penwidth: '5px', URL: "/gotv",
+  fillcolor: 'white', fontcolor:'red', color:'blue', fontsize:'36px', penwidth: '4px', URL: "/gotv",
   width: 3, height: 3 )
 
 # relationships
