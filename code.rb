@@ -42,7 +42,8 @@ two_thirds_state_trifectas = g.add_node( "2/3 of States With Trifectas" )
 house_majority = g.add_node( "House Majority" )
 senate_majority = g.add_node( "Senate Majority" )
 win_presidency = g.add_node( "Presidency" )
-gotv = g.add_node( "Get Out The Vote!" )
+gotv = g.add_node( "Get Out\nThe Vote!", shape: "circle", style: 'filled', fontname: 'garamond',
+  fillcolor: 'white', fontcolor:'red', color:'blue', fontsize:'30px', penwidth: '5px' )
 
 # relationships
 g.add_edge(citizens_united, campaign_finance)
@@ -75,5 +76,5 @@ g.add_edge(win_presidency, expand_federal)
 g.add_edge(win_presidency, expand_scotus)
 g.add_edge(win_presidency, fed_trifecta)
 
-# g.output( :png => "image.png" )
+# g.output( :png => "graph.png" )
 g.output(:svg => "graph.svg")
