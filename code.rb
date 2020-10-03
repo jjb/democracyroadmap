@@ -26,7 +26,7 @@ goals = [
   dc = g.add_node("Statehood for\nDC"),
   senate = g.add_node( "Reform\nSenate" ),
   filibuster = g.add_node( "Abolish\nFilibuster" ),
-  expand_house = g.add_node( "Expand\nHouse" ),
+  expand_house = g.add_node( "Expand\nHouse", target: "new", URL: 'https://www.reddit.com/r/UncapTheHouse/comments/ekv0w7/welcome_to_runcapthehouse_click_here_for_more/')
 ]
 goals.each{|g| g[:color => 'gold']}
 
