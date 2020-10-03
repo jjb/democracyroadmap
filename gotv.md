@@ -71,11 +71,11 @@ I think it's the best and most impactful group of folks there is!
 
 ### And/or check out these other ways to volunteer
 
-* https://www.sisterdistrict.com/volunteer/
-* https://swingleft.org/take-action
-* https://indivisible.org/
-* https://resistancelabs.com/
-* https://front.moveon.org/
+* [https://www.sisterdistrict.com/volunteer/](https://www.sisterdistrict.com/volunteer/)
+* [https://swingleft.org/take-action](https://swingleft.org/take-action)
+* [https://indivisible.org/](https://indivisible.org/)
+* [https://resistancelabs.com/](https://resistancelabs.com/)
+* [https://front.moveon.org/](https://front.moveon.org/)
 * [https://votefwd.org/](https://votefwd.org/) Print and customize physical letters and mail them. Shown to increase turnout by 3.4%!!
 * [https://www.ctctogether.org/](https://www.ctctogether.org/) "Deep canvassing is a form of voter engagement where canvassers connect to voters emotionally through storytelling, empathy, and respect. It’s also the most effective form of voter engagement that’s ever been measured." [WNYC story](https://www.wnyc.org/story/could-door-knock-change-your-mind-and-your-votes/)
 
