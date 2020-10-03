@@ -5,7 +5,7 @@ require 'erb'
 # color for "goal which achieves better democracy"
 # color for "goal which is result of better democracy" (or remove these)
 
-g = GraphViz.new( :G, :type => 'graph' )
+g = GraphViz.new( :G, :type => 'digraph' )
 g.node[shape: 'circle', style: 'filled', fontname: 'garamond', fillcolor: 'white',
   fontsize:'20px', penwidth: '3px', fixedsize: true, width: 2.3, height: 2.3]
 
@@ -30,22 +30,22 @@ goals = [
 ]
 goals.each{|g| g[:color => 'gold']}
 
-legislation = g.add_node( "Ability to\nPass Legislation", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5 )
+legislation = g.add_node( "Ability to\nPass Legislation", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px' )
 
-citizens_united = g.add_node( "Undo\nCitizen's United", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5 )
+citizens_united = g.add_node( "Undo\nCitizen's United", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px' )
 # irv = g.add_node("Instant Runnoff Voting or Similar")
-fed_trifecta = g.add_node( "Federal Trifecta", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5 )
+fed_trifecta = g.add_node( "Federal Trifecta", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px' )
 
 # dependencies
-const_convention = g.add_node( "Constitutional\nConvention", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5 )
-more_state_trifectas = g.add_node( "More\nState Trifectas", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5 )
-majority_state_trifectas = g.add_node( "Majority of States\nWith Trifectas", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5 )
-two_thirds_state_trifectas = g.add_node( "2/3 of States\nWith Trifectas", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5 )
-house_majority = g.add_node( "House Majority", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5)
-senate_majority = g.add_node( "Senate Majority", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5)
-win_presidency = g.add_node( "Presidency", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5)
-gotv = g.add_node( "Click Here to\nGet Out\nThe Vote!", shape: "square", style: 'filled', fontname: 'garamond',
-  fillcolor: 'white', fontcolor:'red', color:'blue', fontsize:'40px', penwidth: '5px', URL: "/gotv",
+const_convention = g.add_node( "Constitutional\nConvention", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px' )
+more_state_trifectas = g.add_node( "More\nState Trifectas", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px' )
+majority_state_trifectas = g.add_node( "Majority of States\nWith Trifectas", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px' )
+two_thirds_state_trifectas = g.add_node( "2/3 of States\nWith Trifectas", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px' )
+house_majority = g.add_node( "House Majority", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px')
+senate_majority = g.add_node( "Senate Majority", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px')
+win_presidency = g.add_node( "Presidency", shape: 'square', fontsize:'16px', width: 1.5, height: 1.5, penwidth: '2px')
+gotv = g.add_node( "Click Here to\nGet Out\nThe Vote!", shape: "circle", style: 'filled', fontname: 'garamond',
+  fillcolor: 'white', fontcolor:'red', color:'blue', fontsize:'36px', penwidth: '5px', URL: "/gotv",
   width: 3, height: 3 )
 
 # relationships
