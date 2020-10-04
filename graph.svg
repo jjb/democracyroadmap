@@ -49,43 +49,46 @@
 <text text-anchor="middle" x="819" y="-291" font-family="garamond" font-size="20.00" fill="#000000">Campaign Finance</text>
 <text text-anchor="middle" x="819" y="-269" font-family="garamond" font-size="20.00" fill="#000000">Reform</text>
 </g>
-<!-- Federal\nGerrymandering\nRules -->
+<!-- Federal Laws for\nGerrymandering -->
 <g id="node5" class="node">
-<title>Federal\nGerrymandering\nRules</title>
-<g id="a_node5"><a xlink:href="https://democraticredistricting.com/" xlink:title="Federal\nGerrymandering\nRules" target="new">
+<title>Federal Laws for\nGerrymandering</title>
+<g id="a_node5"><a xlink:href="https://democraticredistricting.com/" xlink:title="Federal Laws for\nGerrymandering" target="new">
 <ellipse fill="#ffffff" stroke="#ffd700" stroke-width="3" cx="635" cy="-285" rx="83" ry="83"/>
-<text text-anchor="middle" x="635" y="-302" font-family="garamond" font-size="20.00" fill="#000000">Federal</text>
-<text text-anchor="middle" x="635" y="-280" font-family="garamond" font-size="20.00" fill="#000000">Gerrymandering</text>
-<text text-anchor="middle" x="635" y="-258" font-family="garamond" font-size="20.00" fill="#000000">Rules</text>
+<text text-anchor="middle" x="635" y="-291" font-family="garamond" font-size="20.00" fill="#000000">Federal Laws for</text>
+<text text-anchor="middle" x="635" y="-269" font-family="garamond" font-size="20.00" fill="#000000">Gerrymandering</text>
 </a>
 </g>
 </g>
-<!-- Fix Gerrymandering\nIn Some States -->
+<!-- State Laws for\nGerrymandering -->
 <g id="node6" class="node">
-<title>Fix Gerrymandering\nIn Some States</title>
-<g id="a_node6"><a xlink:href="https://democraticredistricting.com/" xlink:title="Fix Gerrymandering\nIn Some States" target="new">
+<title>State Laws for\nGerrymandering</title>
+<g id="a_node6"><a xlink:href="https://democraticredistricting.com/" xlink:title="State Laws for\nGerrymandering" target="new">
 <ellipse fill="#ffffff" stroke="#ffd700" stroke-width="3" cx="1158" cy="-689" rx="83" ry="83"/>
-<text text-anchor="middle" x="1158" y="-695" font-family="garamond" font-size="20.00" fill="#000000">Fix Gerrymandering</text>
-<text text-anchor="middle" x="1158" y="-673" font-family="garamond" font-size="20.00" fill="#000000">In Some States</text>
+<text text-anchor="middle" x="1158" y="-695" font-family="garamond" font-size="20.00" fill="#000000">State Laws for</text>
+<text text-anchor="middle" x="1158" y="-673" font-family="garamond" font-size="20.00" fill="#000000">Gerrymandering</text>
 </a>
 </g>
 </g>
-<!-- Interstate Electoral\nCollege Pact -->
+<!-- National\nPopular Vote\nInterstate Compact -->
 <g id="node7" class="node">
-<title>Interstate Electoral\nCollege Pact</title>
-<g id="a_node7"><a xlink:href="https://www.nationalpopularvote.com/written-explanation" xlink:title="Interstate Electoral\nCollege Pact" target="new">
+<title>National\nPopular Vote\nInterstate Compact</title>
+<g id="a_node7"><a xlink:href="https://www.nationalpopularvote.com/written-explanation" xlink:title="National\nPopular Vote\nInterstate Compact" target="new">
 <ellipse fill="#ffffff" stroke="#ffd700" stroke-width="3" cx="1235" cy="-487" rx="83" ry="83"/>
-<text text-anchor="middle" x="1235" y="-493" font-family="garamond" font-size="20.00" fill="#000000">Interstate Electoral</text>
-<text text-anchor="middle" x="1235" y="-471" font-family="garamond" font-size="20.00" fill="#000000">College Pact</text>
+<text text-anchor="middle" x="1235" y="-504" font-family="garamond" font-size="20.00" fill="#000000">National</text>
+<text text-anchor="middle" x="1235" y="-482" font-family="garamond" font-size="20.00" fill="#000000">Popular Vote</text>
+<text text-anchor="middle" x="1235" y="-460" font-family="garamond" font-size="20.00" fill="#000000">Interstate Compact</text>
 </a>
 </g>
 </g>
-<!-- Removal of\nElectoral College -->
+<!-- National\nPopular Vote -->
 <g id="node8" class="node">
-<title>Removal of\nElectoral College</title>
+<title>National\nPopular Vote</title>
+<g id="a_node8"><a xlink:href="https://en.wikipedia.org/wiki/Electoral_College_abolition_amendment" xlink:title="National\nPopular Vote" target="new">
 <ellipse fill="#ffffff" stroke="#ffd700" stroke-width="3" cx="1390" cy="-83" rx="83" ry="83"/>
-<text text-anchor="middle" x="1390" y="-89" font-family="garamond" font-size="20.00" fill="#000000">Removal of</text>
-<text text-anchor="middle" x="1390" y="-67" font-family="garamond" font-size="20.00" fill="#000000">Electoral College</text>
+<text text-anchor="middle" x="1390" y="-89" font-family="garamond" font-size="20.00" fill="#000000">National</text>
+<text text-anchor="middle" x="1390" y="-67" font-family="garamond" font-size="20.00" fill="#000000">Popular Vote</text>
+</a>
+</g>
 </g>
 <!-- Statehood for\nTerritories -->
 <g id="node9" class="node">
@@ -144,9 +147,9 @@
 <path fill="none" stroke="#000000" d="M534.4153,-466.0701C586.1198,-444.9866 664.9652,-409.6698 727,-368 735.2366,-362.4674 743.4917,-356.234 751.4913,-349.7319"/>
 <polygon fill="#000000" stroke="#000000" points="753.9463,-352.2424 759.3956,-343.1564 749.4696,-346.861 753.9463,-352.2424"/>
 </g>
-<!-- Ability to\nPass Legislation&#45;&gt;Federal\nGerrymandering\nRules -->
+<!-- Ability to\nPass Legislation&#45;&gt;Federal Laws for\nGerrymandering -->
 <g id="edge16" class="edge">
-<title>Ability to\nPass Legislation&#45;&gt;Federal\nGerrymandering\nRules</title>
+<title>Ability to\nPass Legislation&#45;&gt;Federal Laws for\nGerrymandering</title>
 <path fill="none" stroke="#000000" d="M521.5372,-432.8677C538.8589,-410.2936 559.2603,-383.7059 577.9522,-359.3462"/>
 <polygon fill="#000000" stroke="#000000" points="580.9078,-361.2437 584.2187,-351.1795 575.3543,-356.9824 580.9078,-361.2437"/>
 </g>
@@ -199,9 +202,9 @@
 <path fill="none" stroke="#000000" d="M1340.6914,-230.8677C1318.6011,-206.6164 1292.2914,-177.733 1268.8115,-151.9561"/>
 <polygon fill="#000000" stroke="#000000" points="1271.2692,-149.4567 1261.9477,-144.4208 1266.0942,-154.1705 1271.2692,-149.4567"/>
 </g>
-<!-- Constitutional\nConvention&#45;&gt;Removal of\nElectoral College -->
+<!-- Constitutional\nConvention&#45;&gt;National\nPopular Vote -->
 <g id="edge2" class="edge">
-<title>Constitutional\nConvention&#45;&gt;Removal of\nElectoral College</title>
+<title>Constitutional\nConvention&#45;&gt;National\nPopular Vote</title>
 <path fill="none" stroke="#000000" d="M1390,-230.8677C1390,-214.0273 1390,-194.9532 1390,-176.2368"/>
 <polygon fill="#000000" stroke="#000000" points="1393.5001,-176.1951 1390,-166.1951 1386.5001,-176.1952 1393.5001,-176.1951"/>
 </g>
@@ -218,9 +221,9 @@
 <text text-anchor="middle" x="1158" y="-867.2" font-family="garamond" font-size="16.00" fill="#000000">More</text>
 <text text-anchor="middle" x="1158" y="-849.2" font-family="garamond" font-size="16.00" fill="#000000">State Trifectas</text>
 </g>
-<!-- More\nState Trifectas&#45;&gt;Fix Gerrymandering\nIn Some States -->
+<!-- More\nState Trifectas&#45;&gt;State Laws for\nGerrymandering -->
 <g id="edge20" class="edge">
-<title>More\nState Trifectas&#45;&gt;Fix Gerrymandering\nIn Some States</title>
+<title>More\nState Trifectas&#45;&gt;State Laws for\nGerrymandering</title>
 <path fill="none" stroke="#000000" d="M1158,-807.7364C1158,-799.617 1158,-791.0554 1158,-782.4012"/>
 <polygon fill="#000000" stroke="#000000" points="1161.5001,-782.2201 1158,-772.2201 1154.5001,-782.2202 1161.5001,-782.2201"/>
 </g>
@@ -237,9 +240,9 @@
 <path fill="none" stroke="#000000" d="M1212.3779,-811.407C1225.0922,-798.876 1238.3233,-785.2378 1250,-772 1255.7629,-765.4667 1261.5869,-758.4544 1267.2452,-751.3744"/>
 <polygon fill="#000000" stroke="#000000" points="1270.3588,-753.0779 1273.7978,-743.0567 1264.8601,-748.7461 1270.3588,-753.0779"/>
 </g>
-<!-- Majority\nState Trifectas&#45;&gt;Interstate Electoral\nCollege Pact -->
+<!-- Majority\nState Trifectas&#45;&gt;National\nPopular Vote\nInterstate Compact -->
 <g id="edge18" class="edge">
-<title>Majority\nState Trifectas&#45;&gt;Interstate Electoral\nCollege Pact</title>
+<title>Majority\nState Trifectas&#45;&gt;National\nPopular Vote\nInterstate Compact</title>
 <path fill="none" stroke="#000000" d="M1292.0974,-634.8677C1284.8579,-616.1191 1276.5493,-594.602 1268.5524,-573.8921"/>
 <polygon fill="#000000" stroke="#000000" points="1271.7723,-572.5143 1264.905,-564.4463 1265.2422,-575.0358 1271.7723,-572.5143"/>
 </g>
