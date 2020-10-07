@@ -99,7 +99,6 @@ I think it's the best and most impactful group of folks there is!
 
 ## More! / not 2020-specific
 
-* Gamify registration, voting, etc. in a team. Only for the truly democracy obsessed. Join the team I'm on, "Texas Rock" https://www.motivote.us/
 * Volunteer with [https://momsdemandaction.org/](https://momsdemandaction.org/). They have been [passing gun laws at the state level for *years*](https://momsdemandaction.org/our-victories/). They are inspiring and amazing.
   * [https://momsdemandaction.org/join-us/](https://momsdemandaction.org/join-us/)
   * Text GUNSENSE to 644-33
