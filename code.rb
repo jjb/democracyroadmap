@@ -26,7 +26,8 @@ goals = [
   dc = g.add_node("Statehood for\nDC"),
   senate = g.add_node( "Reform\nSenate" ),
   filibuster = g.add_node( "Abolish\nFilibuster" ),
-  expand_house = g.add_node( "Expand\nHouse", target: "new", URL: 'https://www.reddit.com/r/UncapTheHouse/comments/ekv0w7/welcome_to_runcapthehouse_click_here_for_more/')
+  expand_house = g.add_node( "Expand\nHouse", target: "new", URL: 'https://www.reddit.com/r/UncapTheHouse/comments/ekv0w7/welcome_to_runcapthehouse_click_here_for_more/'),
+  vra = g.add_node("Restore the\nVoting Rights Act", target: "new", URL: 'https://www.brennancenter.org/our-work/research-reports/how-we-can-restore-voting-rights-act'),
 ]
 goals.each{|g| g[:color => 'gold']}
 
@@ -54,6 +55,7 @@ g.add_edge(const_convention, remove_ec)
 g.add_edge(const_convention, scotus_term_limits)
 g.add_edge(const_convention, senate)
 g.add_edge(expand_scotus, citizens_united)
+g.add_edge(expand_scotus, vra)
 g.add_edge(fed_trifecta, legislation)
 g.add_edge(filibuster, legislation)
 g.add_edge(gotv, house_majority)
@@ -66,6 +68,7 @@ g.add_edge(legislation, dc)
 g.add_edge(legislation, expand_house)
 g.add_edge(legislation, gerrymandering_fed)
 g.add_edge(legislation, territories)
+g.add_edge(legislation, vra)
 g.add_edge(majority_state_trifectas, ec_pact)
 g.add_edge(majority_state_trifectas, two_thirds_state_trifectas)
 g.add_edge(more_state_trifectas, gerrymandering_state)
