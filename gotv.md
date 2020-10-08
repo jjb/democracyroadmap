@@ -12,8 +12,10 @@ For more info and options, read on...
 
 ### What's the goal?
 
+We [canvass](https://en.wikipedia.org/wiki/Canvassing) by making phone calls, texting, and, in non-covid times, knocking on their doors.
+
 We need to reach as many voters as possible to inform them that the election is happening,
-who the Democrat candidates are, what's at stake, and where and how to vote. Direct contact puts a human
+who the Democratic candidates are, what's at stake, and where and how to vote. Direct contact puts a human
 face/voice to the process of voting and to the issues. All these methods have been proven to work to turn out more voters
 than TV and internet ads.
 
