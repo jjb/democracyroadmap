@@ -81,7 +81,7 @@ I think it's the best and most impactful group of folks there is!
 
 ## Donate
 * [https://votesaveamerica.com/donate](https://votesaveamerica.com/donate)
-* [https://www.futurenow.org/](https://www.futurenow.org/) strategically picked state races
+* [https://www.futurenow.org/](https://www.futurenow.org/) strategically picked state races, and also a [policy agenda](https://www.americasgoals.org/)
 * [https://flippable.org/](https://flippable.org/) flippable *state* House and Senate districts. Click "donate" to donate to all.
 * [https://www.sisterdistrict.com/](https://www.sisterdistrict.com/) strategically picked state races
 * [https://redtoblue.dccc.org/](https://redtoblue.dccc.org/) flippable *US* House districts. Click "support all candidates" or pick your favorite(s). warning: sadly, the DCCC will give your email address to every single campaign and you will get 10+ emails a day!
