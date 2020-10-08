@@ -17,11 +17,14 @@ who the Democrat candidates are, what's at stake, and where and how to vote. Dir
 face/voice to the process of voting and to the issues. All these methods have been proven to work to turn out more voters
 than TV and internet ads.
 
-## Doesn't everyone already know about the election and who the candidates are, and probably know who they are voting for.
+## Doesn't everyone already know about the election and who the candidates are, and probably know who they are voting for?
 
 Some people don't know about the election, or they do but they aren't super clear on who the candidates are!
 Not everyone pays attention to or understands the news. Some people have 2 or 3 jobs!
 There are a ton of high potential and low information voters who, with just a phone call, could be looped into everything going on.
+
+Often people are aware of things, but they view it from a distance as a horse race, a spectacle.
+Reaching out to them pulls them in and makes them feel involved and feel like they have influence.
 
 Some people are pretty informed and will vote Democrat, but don't know where their polling place is, or how to vote by mail etc.
 
