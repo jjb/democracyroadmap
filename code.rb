@@ -27,7 +27,9 @@ goals = [
   senate = g.add_node( "Reform\nSenate" ),
   filibuster = g.add_node( "Abolish\nFilibuster" ),
   expand_house = g.add_node( "Expand\nHouse", target: "new", URL: 'https://www.reddit.com/r/UncapTheHouse/comments/ekv0w7/welcome_to_runcapthehouse_click_here_for_more/'),
-  vra = g.add_node("Restore the\nVoting Rights Act", target: "new", URL: 'https://www.brennancenter.org/our-work/research-reports/how-we-can-restore-voting-rights-act'),
+
+  # in future content pages, add links to info about: automatic voter registration, same day reg, no excuse absentee
+  vra = g.add_node("Restore & Expand\nVoting Rights Act", target: "new", URL: 'https://www.brennancenter.org/our-work/research-reports/how-we-can-restore-voting-rights-act'),
 ]
 goals.each{|g| g[:color => 'gold']}
 

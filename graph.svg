@@ -15,19 +15,19 @@
 <text text-anchor="middle" x="267" y="-695" font-family="garamond" font-size="20.00" fill="#000000">Expand</text>
 <text text-anchor="middle" x="267" y="-673" font-family="garamond" font-size="20.00" fill="#000000">SCOTUS</text>
 </g>
-<!-- Restore the\nVoting Rights Act -->
+<!-- Restore &amp; Expand\nVoting Rights Act -->
 <g id="node14" class="node">
-<title>Restore the\nVoting Rights Act</title>
-<g id="a_node14"><a xlink:href="https://www.brennancenter.org/our-work/research-reports/how-we-can-restore-voting-rights-act" xlink:title="Restore the\nVoting Rights Act" target="new">
+<title>Restore &amp; Expand\nVoting Rights Act</title>
+<g id="a_node14"><a xlink:href="https://www.brennancenter.org/our-work/research-reports/how-we-can-restore-voting-rights-act" xlink:title="Restore &amp; Expand\nVoting Rights Act" target="new">
 <ellipse fill="#ffffff" stroke="#ffd700" stroke-width="3" cx="267" cy="-285" rx="83" ry="83"/>
-<text text-anchor="middle" x="267" y="-291" font-family="garamond" font-size="20.00" fill="#000000">Restore the</text>
+<text text-anchor="middle" x="267" y="-291" font-family="garamond" font-size="20.00" fill="#000000">Restore &amp; Expand</text>
 <text text-anchor="middle" x="267" y="-269" font-family="garamond" font-size="20.00" fill="#000000">Voting Rights Act</text>
 </a>
 </g>
 </g>
-<!-- Expand\nSCOTUS&#45;&gt;Restore the\nVoting Rights Act -->
+<!-- Expand\nSCOTUS&#45;&gt;Restore &amp; Expand\nVoting Rights Act -->
 <g id="edge6" class="edge">
-<title>Expand\nSCOTUS&#45;&gt;Restore the\nVoting Rights Act</title>
+<title>Expand\nSCOTUS&#45;&gt;Restore &amp; Expand\nVoting Rights Act</title>
 <path fill="none" stroke="#000000" d="M267,-605.7808C267,-539.6484 267,-447.1722 267,-378.4932"/>
 <polygon fill="#000000" stroke="#000000" points="270.5001,-378.1112 267,-368.1112 263.5001,-378.1113 270.5001,-378.1112"/>
 </g>
@@ -187,9 +187,9 @@
 <path fill="none" stroke="#000000" d="M597.2774,-455.0646C634.7579,-432.2579 685.1841,-400.0565 727,-368 734.8746,-361.9633 742.8982,-355.4074 750.7614,-348.7155"/>
 <polygon fill="#000000" stroke="#000000" points="753.2712,-351.1729 758.5598,-341.9924 748.7005,-345.8712 753.2712,-351.1729"/>
 </g>
-<!-- Ability to\nPass Legislation&#45;&gt;Restore the\nVoting Rights Act -->
+<!-- Ability to\nPass Legislation&#45;&gt;Restore &amp; Expand\nVoting Rights Act -->
 <g id="edge19" class="edge">
-<title>Ability to\nPass Legislation&#45;&gt;Restore the\nVoting Rights Act</title>
+<title>Ability to\nPass Legislation&#45;&gt;Restore &amp; Expand\nVoting Rights Act</title>
 <path fill="none" stroke="#000000" d="M488.7226,-455.0646C451.2421,-432.2579 400.8159,-400.0565 359,-368 351.1254,-361.9633 343.1018,-355.4074 335.2386,-348.7155"/>
 <polygon fill="#000000" stroke="#000000" points="337.2995,-345.8712 327.4402,-341.9924 332.7288,-351.1729 337.2995,-345.8712"/>
 </g>
