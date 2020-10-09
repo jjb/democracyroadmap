@@ -123,3 +123,5 @@ I think it's the best and most impactful group of folks there is!
 ----
 
 *Thanks for reading! — [John](https://jjb.cc)*
+
+![A woman, a cat, and a dog ride a surfboard on a large wave. To their left on the wave are the ballot box and "COOL" emojis. To their right on the wave are the avocado, hamburger, and pizza emojis. Behind the wave, flipped upsidedown, are several elephants.](https://democracyroadmap.us/bluewave2018.jpg "Blue Wave!")
