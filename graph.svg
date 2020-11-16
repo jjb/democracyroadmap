@@ -120,12 +120,15 @@
 <text text-anchor="middle" x="635" y="-291" font-family="garamond" font-size="20.00" fill="#000000">Statehood for</text>
 <text text-anchor="middle" x="635" y="-269" font-family="garamond" font-size="20.00" fill="#000000">DC</text>
 </g>
-<!-- Reform\nSenate -->
+<!-- Restructure/Abolish\nSenate -->
 <g id="node11" class="node">
-<title>Reform\nSenate</title>
+<title>Restructure/Abolish\nSenate</title>
+<g id="a_node11"><a xlink:href="https://www.theatlantic.com/politics/archive/2018/10/senators-kavanaugh-represented-44-percent-us/572623/" xlink:title="Restructure/Abolish\nSenate" target="new">
 <ellipse fill="#ffffff" stroke="#ffd700" stroke-width="3" cx="1342" cy="-83" rx="83" ry="83"/>
-<text text-anchor="middle" x="1342" y="-89" font-family="garamond" font-size="20.00" fill="#000000">Reform</text>
+<text text-anchor="middle" x="1342" y="-89" font-family="garamond" font-size="20.00" fill="#000000">Restructure/Abolish</text>
 <text text-anchor="middle" x="1342" y="-67" font-family="garamond" font-size="20.00" fill="#000000">Senate</text>
+</a>
+</g>
 </g>
 <!-- Abolish\nFilibuster -->
 <g id="node12" class="node">
@@ -230,9 +233,9 @@
 <path fill="none" stroke="#000000" d="M1158,-230.8677C1158,-214.0273 1158,-194.9532 1158,-176.2368"/>
 <polygon fill="#000000" stroke="#000000" points="1161.5001,-176.1951 1158,-166.1951 1154.5001,-176.1952 1161.5001,-176.1951"/>
 </g>
-<!-- Constitutional\nConvention&#45;&gt;Reform\nSenate -->
+<!-- Constitutional\nConvention&#45;&gt;Restructure/Abolish\nSenate -->
 <g id="edge4" class="edge">
-<title>Constitutional\nConvention&#45;&gt;Reform\nSenate</title>
+<title>Constitutional\nConvention&#45;&gt;Restructure/Abolish\nSenate</title>
 <path fill="none" stroke="#000000" d="M1207.3086,-230.8677C1229.3989,-206.6164 1255.7086,-177.733 1279.1885,-151.9561"/>
 <polygon fill="#000000" stroke="#000000" points="1281.9058,-154.1705 1286.0523,-144.4208 1276.7308,-149.4567 1281.9058,-154.1705"/>
 </g>

@@ -24,7 +24,7 @@ goals = [
   remove_ec = g.add_node("National\nPopular Vote", URL: 'https://en.wikipedia.org/wiki/Electoral_College_abolition_amendment', target: 'new'),
   territories = g.add_node("Statehood for\nTerritories"),
   dc = g.add_node("Statehood for\nDC"),
-  senate = g.add_node( "Reform\nSenate" ),
+  senate = g.add_node( "Restructure/Abolish\nSenate", target: 'new', URL: 'https://www.theatlantic.com/politics/archive/2018/10/senators-kavanaugh-represented-44-percent-us/572623/' ),
   filibuster = g.add_node( "Abolish\nFilibuster" ),
   expand_house = g.add_node( "Expand\nHouse", target: "new", URL: 'https://www.reddit.com/r/UncapTheHouse/comments/ekv0w7/welcome_to_runcapthehouse_click_here_for_more/'),
 
