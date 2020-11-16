@@ -3,5 +3,5 @@
 
 ```
 bundle
-bundle exec ruby code.rb && imgcat image.png
+bundle exec ruby code.rb && imgcat graph.png # imgcat if using iTerm
 ```
