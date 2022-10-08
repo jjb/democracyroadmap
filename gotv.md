@@ -1,22 +1,30 @@
 # How to get the vote out for Democrats!
 
-## Q&A
-
-### I'm busy, mildly overwhelmed and confused, and want to help, I think? What should I do right now?!
+### Too busy and just want some easy ways to help Democrats win?
 
 Skip this whole document and...
+
  * Donate here: [https://votesaveamerica.com/donate](https://votesaveamerica.com/donate)
  * Check your voter registration, request a ballot: [https://www.vote.org/](https://www.vote.org/)
+ * Nag your friends and family to check their voter registration, make a plan for when to vote (before work, after work, etc)
  * explore volunteer (from home!) opportunities here: [https://votesaveamerica.com/](https://votesaveamerica.com/)
 
 For more info and options, read on...
 
+## Q&A
+
 ### What's the goal?
 
-We [canvass](https://en.wikipedia.org/wiki/Canvassing) by making phone calls, texting, and knocking on doors.
+The most effective way to get more votes is to
+[canvass](https://en.wikipedia.org/wiki/Canvassing) by making phone calls, texting, and knocking on doors.
 
-We need to reach as many voters as possible to inform them that the election is happening,
-who the Democratic candidates are, what's at stake, and where and how to vote. Direct contact puts a human
+We need to reach as many voters as possible to inform them
+* that the election is happening
+* who the Democratic candidates are
+* what's at stake
+* where and how to vote.
+
+Direct contact puts a human
 face/voice to the process of voting and to the issues. All these methods have been proven to work to turn out more voters
 than TV and internet ads.
 
@@ -60,7 +68,7 @@ Short answer: Every vote counts! The entire VA legislature was lost to Republica
 
 Long answer: All those drops in the bucket add up! When we canvass, do phone calls, or text, we are reaching out to voters
 and gaining some votes. Additionally, we are also collecting data for the campaign to use later for various purposes, such as
-deciding whom to reach out to via phone on election day to remind them to vote.
+deciding whom to reach out to via phone on election day to remind them to vote. Additionally, getting voters engaged and feeling like they have an impact makes them more likely to talk to their own friends and family, so they might be bringingin in additional votes themselves.
 
 Another answer: Starting in 2018, the GOTV effort is massive, we have changed outcomes and we are going to keep doing it! JOIN US!
 
@@ -69,17 +77,18 @@ Another answer: Starting in 2018, the GOTV effort is massive, we have changed ou
 * You can volunteer for 30 minutes/week or 10 hours/week
 * You can donate $5 or $5,000
 * Do something! Don't do nothing!
-* 🐈 kthnxbai 🐕
 
 ## Volunteering
 
 ### ways to volunteer
 
+* In-person Canvassing: Walk door to door, inform people about the election and the candidate. You meet a spectrum of Americans and make a difference — it's fun! There is very little confrontation, and many people are grateful to have a face-to-face conversation with someone who cares. It's really life-changing and productive to connect with one's fellow americans, and also to walk around some beautiful and interesting neighborhoods! The campaign has different goals for the canvass day-to-day. You will get a quick training and you will be partnered with an experienced person.
 * Phone banking: Make phone calls, using an app. Your phone number is not involved. Similar goals as above.
 * Text banking: Send Text messages, using an app. Your phone number is not involved. Similar goals as above.
-* Canvassing: Walk door to door, inform people about the election and the candidate. You meet a spectrum of Americans and make a difference — it's fun! There is very little confrontation, and many people are grateful to have a face-to-face conversation with someone who cares. It's really life-changing and productive. The campaign has different goals for the canvass day-to-day. You will get a quick training and you will be partnered with an experienced person.
 
-### Knock For Democracy
+#### Groups to volunteer with
+
+#### Knock For Democracy
 
 I've been involved on and off with this group since 2018 and
 I think it's the best and most impactful group of folks there is!
@@ -87,7 +96,7 @@ I think it's the best and most impactful group of folks there is!
 [https://www.knockfordemocracy.org/](https://www.knockfordemocracy.org/)
 
 
-### Other
+#### Other
 
 * [https://www.sisterdistrict.com/volunteer/](https://www.sisterdistrict.com/volunteer/)
 * [https://swingleft.org/](https://swingleft.org/)
@@ -101,7 +110,7 @@ I think it's the best and most impactful group of folks there is!
 * [https://www.futurenow.org/](https://www.futurenow.org/) strategically picked state races, and also a [policy agenda](https://www.americasgoals.org/)
 * [https://flippable.org/](https://flippable.org/) flippable *state* House and Senate districts. Click "donate" to donate to all.
 * [https://www.sisterdistrict.com/](https://www.sisterdistrict.com/) strategically picked state races
-* [https://redtoblue.dccc.org/](https://redtoblue.dccc.org/) flippable *US* House districts. Click "support all candidates" or pick your favorite(s). warning: sadly, the DCCC will give your email address to every single campaign and you will get 10+ emails a day!
+* [https://redtoblue.dccc.org/](https://redtoblue.dccc.org/) flippable *US* House districts. Click "support all candidates" or pick your favorite(s). warning: sadly, the DCCC will give your email address to every single campaign and you will get lots of emails! sigh
 * [https://www.dlcc.org/](https://www.dlcc.org/) - state races
 
 ## Multi-function Guides/Resources. They are fun! Do them all!
