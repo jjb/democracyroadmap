@@ -1,9 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    rexml (3.2.4)
+    rexml (3.3.3)
+      strscan
     ruby-graphviz (1.2.5)
       rexml
+    strscan (3.1.0)
 
 PLATFORMS
   ruby
